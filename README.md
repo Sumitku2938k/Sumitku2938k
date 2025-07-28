@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
 <h3 align="center">A passionate Full-Stack developer from India.</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=2nd+Year+Enginering+Student;Passionate+Front+End+Developer;Learning+DSA+in+C%2B%2B;Open+Source+Contributor" alt="Typing SVG" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitku2938k&label=Profile%20views&color=0e75b6&style=flat" alt="sumitku2938k" /> </p>
 
