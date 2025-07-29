@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
 <h3 align="center">A passionate Full-Stack developer from India.</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=2nd+Year+Enginering+Student;Passionate+Front+End+Developer;Learning+DSA+in+C%2B%2B;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=2nd+Year+Enginering+Student;Passionate+Full-Stack+Developer;Learning+DSA+in+C%2B%2B;Open+Source+Contributor" alt="Typing SVG" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitku2938k&label=Profile%20views&color=0e75b6&style=flat" alt="sumitku2938k" /> </p>
 
@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **React.js, Tailwind CSS**
 
-- 👨‍💻 All of my projects are available at [Link coming soon...](Link coming soon...)
+- 👨‍💻 All of my projects are available at [Link coming soon...]
 
 - 💬 Ask me about **Web development, JavaScript, Node.js, Express.js, EJS, MongoDB, SQL, or anything about building full-stack apps, clone projects like Airbnb, or integrating AI into web platforms. Always happy to share what I know and learn together!**
 
 - 📫 How to reach me **sumitku2938k@gmail.com**
 
-- 📄 Know about my experiences [Link will be updated soon](Link will be updated soon)
+- 📄 Know about my experiences [Link will be updated soon]
 
 - ⚡ Fun fact **I think I’m funny — my console.log() agrees, but the browser keeps ignoring my jokes 😅**
 
