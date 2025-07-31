@@ -34,6 +34,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitku2938k&show_icons=true&locale=en" alt="sumitku2938k" /></p>
 
+---
+
 ### 🏆 **GitHub Trophies**
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Yashaswini-K-P&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
