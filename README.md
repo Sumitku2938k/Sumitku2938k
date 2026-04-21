@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React.js, Tailwind CSS**
 
-- 👨‍💻 All of my projects are available at [Link coming soon...]
+- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-alpha-five-p8bv33dzu1.vercel.app/)
 
 - 💬 Ask me about **Web development, JavaScript, Node.js, Express.js, EJS, MongoDB, SQL, or anything about building full-stack apps, clone projects like Airbnb, or integrating AI into web platforms. Always happy to share what I know and learn together!**
 
