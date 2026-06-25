@@ -38,3 +38,61 @@
 </p>
 
 ---
+
+# 🏆 Achievements
+
+<div align="center">
+
+🚀 Built scalable MERN stack applications with authentication & APIs  
+
+⚡ Open Source Contributor – **EduLinkUp Summer of Code 2026 (ELUSOC)**  
+
+💡 Experience with REST APIs, Deployment & Full Stack Architecture  
+
+</div>
+
+---
+
+# 📚 Education
+
+<div align="center">
+
+🎓 **B.Tech in Computer Science & Engineering**  
+🏫 J.C. Bose University of Sciences and Technology, YMCA   
+📅 2024 – 2028  
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sumit-kumar-b2aa90324/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Sumitku2938k">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-sumitku2938k.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
+
+<a href="mailto:sumitku2938k@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ Code • Build • Learn • Repeat ⚡
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0F172A,50:2563EB,100:7C3AED"/>
+
+</div>
