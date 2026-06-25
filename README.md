@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React.js, Tailwind CSS**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-alpha-five-p8bv33dzu1.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-sumitku2938k.vercel.app/)
 
 - 💬 Ask me about **Web development, JavaScript, Node.js, Express.js, EJS, MongoDB, SQL, or anything about building full-stack apps, clone projects like Airbnb, or integrating AI into web platforms. Always happy to share what I know and learn together!**
 
@@ -34,7 +34,7 @@
 
 ### 📈 **Contribution Graph**
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumitku2938k&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumitku2938k&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
